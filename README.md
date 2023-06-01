@@ -22,9 +22,7 @@ My Kingdom Academy is a Web-App for an academy that offers a range of courses fo
 
 
 
-<h1 align="center" style="color:red;">Notes</h1>
-<h4 align="left">1. My Kingdom Academy project is still a work in progress, it is not fully developed and requires additional features. </h4>
-<h4 align="left">2. The project is not intended for a real-world domain and is solely for practicing purposes.</h4>
+
 
 
 
@@ -87,8 +85,11 @@ My Kingdom Academy is a Web-App for an academy that offers a range of courses fo
 <hr>
 
 
+<h1 align="center" style="color:red;">Notes</h1>
+<h4 align="left">1. My Kingdom Academy project is still a work in progress, it is not fully developed and requires additional features. </h4>
+<h4 align="left">2. The project is not intended for a real-world domain and is solely for practicing purposes.</h4>
 
-  
+<hr>
 
 <h1 align="center">Languages and Tools that used in this project</h1>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
