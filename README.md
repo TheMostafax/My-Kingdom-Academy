@@ -29,7 +29,6 @@ My Kingdom Academy is a Web-App for an academy that offers a range of courses fo
 
 
 
-<h3 align="center">Live Demo: </h3>
 
 
 
