@@ -78,7 +78,14 @@ My Kingdom Academy is a Web-App for an academy that offers a range of courses fo
 <hr>
 
 
+<h3 align="center">Student page</h3>
 
+
+![Student](https://github.com/TheMostafax/My-Kingdom-Academy/assets/81190585/43fe4632-d6e2-484e-9bb8-7ccb882b8a8d)
+
+
+
+<hr>
 
 
 
