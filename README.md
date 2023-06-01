@@ -1,7 +1,7 @@
 <h1 align="center">My Kingdom Academy</h1>
 
 <p align="center">
-  <img src="https://st2.depositphotos.com/3096625/8593/v/600/depositphotos_85937622-stock-illustration-crown-logo-monogram.jpg" width="100%" height=200>
+  <img src="https://st2.depositphotos.com/3096625/8593/v/600/depositphotos_85937622-stock-illustration-crown-logo-monogram.jpg" width="100%" height=300>
 </p>
 <h1 align="center">Project Description </h1>
 
