@@ -1,6 +1,6 @@
 <h1 align="center">My Kingdom Academy</h1>
 
-<img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" align="center" height=300>
+<img src="https://e0.pxfuel.com/wallpapers/191/660/desktop-wallpaper-cindy-jones-on-crown-s-iphone-king-logo-design-infinity-crown-art-thumbnail.jpg" align="center" height=300>
 <hr>
 <h1 align="center">Project Description </h1>
 
