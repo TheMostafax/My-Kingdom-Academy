@@ -22,7 +22,7 @@ My Kingdom Academy is a Web-App for an academy that offers a range of courses fo
 
 
 
-<h1 align="center">Notes</h1>
+<h1 align="center" color="red">Notes</h1>
 <h4 align="left">1. My Kingdom Academy project is still a work in progress, it is not fully developed and requires additional features. </h4>
 <h4 align="left">2. The project is not intended for a real-world domain and is solely for practicing purposes.</h4>
 
