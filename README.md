@@ -50,20 +50,24 @@ My Kingdom Academy is a Web-App for an academy that offers a range of courses fo
 
 <h3 align="center">Our Staff page</h3>
 
+
 ![Staff](https://github.com/TheMostafax/My-Kingdom-Academy/assets/81190585/38f35447-e033-430c-a8d2-ed766e74d38d)
 
 
 <h3 align="center">Services page</h3>
+
 
 ![Services](https://github.com/TheMostafax/My-Kingdom-Academy/assets/81190585/7baaaafb-7fe0-4a41-a47c-539eb7d6c891)
 
 
 <h3 align="center">Courses page</h3>
 
+
 ![Courses](https://github.com/TheMostafax/My-Kingdom-Academy/assets/81190585/8f617572-c2f0-417b-bb1b-80a9bb7d5497)
 
 
 <h3 align="center">Register page</h3>
+
 
 ![Register or Contact](https://github.com/TheMostafax/My-Kingdom-Academy/assets/81190585/776412a6-596c-44c2-b22a-90b2236db63c)
 
