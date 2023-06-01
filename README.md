@@ -1,2 +1,3 @@
 # My-Kingdom-Academy
-A WebApp using NextJs and Tailwind
+
+WebApp using NextJs and Tailwind
