@@ -1,7 +1,7 @@
-# My-Kingdom-Academy
+<h1 align="center">My Kingdom Academy</h1>
 
-WebApp using NextJs and Tailwind
-
+<img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" align="center" height=300>
+<hr>
 <h1 align="center">Project Description </h1>
 
 My Kingdom Academy is a Web-App for an academy that offers a range of courses for students. This project is developed using Next.js and Tailwind CSS. The website contains seven pages that provide information about the academy and its services.The website's design is clean and modern, with an emphasis on simplicity and ease of use.The website is optimized for performance and is responsive, ensuring that it can be accessed on a variety of devices.
