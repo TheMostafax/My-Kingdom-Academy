@@ -58,11 +58,11 @@ My Kingdom Academy is a Web-App for an academy that offers a range of courses fo
 
 
 
-<h13 align="center">Register page</h3>
+<h3 align="center">Register page</h3>
 
 
 
-<h13 align="center">Register page</h3>
+
 
 
 
