@@ -8,6 +8,7 @@
 
 My Kingdom Academy is a Web-App for an academy that offers a range of courses for students. This project is developed using Next.js and Tailwind CSS. The website contains seven pages that provide information about the academy and its services.The website's design is clean and modern, with an emphasis on simplicity and ease of use.The website is optimized for performance and is responsive, ensuring that it can be accessed on a variety of devices.
 
+
 <h2 align="left">1. Home page</h2>
 <h4 align="left">The Home page is designed to give visitors a simple overview of the academy.</h4>
 <h2 align="left">2. About Us page</h2>
